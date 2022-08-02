@@ -1,3 +1,10 @@
+#Name:Abhinav Gosain  
+#Reg.no :RA2111003010221
+#Tilte:Student info
+#college details : SRMIST
+
+
+
 # include <stdio.h>
 # include <string.h>
 struct student {
